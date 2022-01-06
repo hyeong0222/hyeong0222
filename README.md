@@ -1,14 +1,14 @@
-<h1 align="center">Sang Hyeong Woo</h1>
-<br>
-<h5 align="center">🇰🇷 Android Developer living in 🇺🇸</h5>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Sang%20Hyeong%20Woo&fontSize=80" />
+
+<h4 align="center"><strong>🇰🇷 Android Developer living in 🇺🇸</strong></h4>
 <p align="center">
   A professional developer with an experitse in native Android applications for mobile and tablets. A forward-thinking and a proactive developer with experiences in building, integrating, testing, and supporting Android applications.
 </p>
 
 <br>
 
-<h4 align="center"><strong>Current Company</strong></h5>
-<p align="center">Publicis Sapeint</p>
+<h4 align="center"><strong>Current Work</strong></h5>
+<p align="center">Senior Associate Technology L1 at Publicis Sapeint</p>
 
 <br>
 
